@@ -1,4 +1,4 @@
-# PHp & MySQli using Procedural Approach
+# PHP & MySQLi ( Procedural Approach )
 
 - SUPER GLOBAl VARIABLES
 - STRING FUNCTIONS
